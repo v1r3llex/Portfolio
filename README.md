@@ -1,6 +1,6 @@
 O mnie
 Jestem doświadczonym developerem specjalizującym się w tworzeniu pluginów Minecraft, botów oraz kompleksowych systemów serwerowych. Projektuję rozwiązania skalowalne, zoptymalizowane i dostosowane do indywidualnych potrzeb klienta. Stawiam na czystą architekturę, dobrą dokumentację oraz długoterminową stabilność projektów.
-
+<hr>
 O mnie
 Jestem doświadczonym developerem specjalizującym się w tworzeniu pluginów Minecraft, botów oraz kompleksowych systemów serwerowych. Projektuję rozwiązania skalowalne, zoptymalizowane i dostosowane do indywidualnych potrzeb klienta. Stawiam na czystą architekturę, dobrą dokumentację oraz długoterminową stabilność projektów.
 
